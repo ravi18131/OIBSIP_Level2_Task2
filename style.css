@@ -1,0 +1,71 @@
+.start marquee{
+    position: relative;
+    left: 30%;
+    background-color: yellow;
+    font-size: 36px;
+    font-weight: bold;
+    text-decoration: none;
+    justify-content: center;
+    color: blue;
+    border-radius: 17px;
+}
+
+.start p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.start .img img{
+    height: auto;
+    width: 100%;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+
+
+.quotebox p{
+    
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+span{
+    font-size: 18px;
+    color: blue;
+}
+
+.quotes{
+    margin: 50px 20px;
+}
+
+.timeline{
+    margin: 50px 22px;
+}
+
+.timeline ul li{
+    font-size: 22px;
+    padding: 7px;
+
+}
+
+.intro{
+    margin: 50px 25px;
+}
+h2{
+    font-size: 27px;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.intro p{
+    padding: 7px;
+    text-align: left;
+}
+
